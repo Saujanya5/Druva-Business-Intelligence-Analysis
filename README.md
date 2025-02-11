@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes Druva's customer accounts, revenue patterns, and license usage to derive meaningful insights. The goal is to help the business understand account behavior, revenue growth, and storage utilization trends.
 
-📄 **[View the Full Report (PDF)](Business_Intelligence_Analysis.pdf)**
+📄 **[View the Full Report (PDF)](Business Intelligence Analysis.pdf)**
 
 ---
 
